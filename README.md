@@ -1,3 +1,2 @@
-# google-mqtt-arduino-create
-
-Google MQTT Arduino Create
+# google-cloud-arduino-create
+Intel managed samples for Google Cloud Platform on Arduino Create
