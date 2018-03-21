@@ -1,3 +1,3 @@
-# google-mqtt-arduino-create
+# google-cloud-arduino-create
 
-Google MQTT Arduino Create
+Google Cloud Arduino Create
