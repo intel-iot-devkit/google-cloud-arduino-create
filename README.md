@@ -1,3 +1,2 @@
 # google-cloud-arduino-create
-
-Google Cloud Arduino Create
+Intel managed samples for Google Cloud Platform on Arduino Create
